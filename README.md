@@ -1,6 +1,6 @@
 # CaminoMasCorto
 
-HHello, this program is responsible for finding the shortest path within a matrix. The tour goes from the first column to the last, being able to change rows as long as they are adjacent.
+Hello, this program is responsible for finding the shortest path within a matrix. The tour goes from the first column to the last, being able to change rows as long as they are adjacent.
 
 For example in a matrix:  
 4 - 5 - 6  
@@ -14,6 +14,8 @@ The algorithm goes through all the possible paths and adds them to determine whi
 ## Usage
 
 To use this program you just have to modify the values ​​and/or the size of the array "M1" of the file main.py
+
+You can see the explanation of it in the following video https://www.youtube.com/watch?v=pioBWYuHiCU
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
